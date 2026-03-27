@@ -4,3 +4,4 @@
 ### Added
 - **Negative Space Priming:** Pre-loaded baseline education pixels into idle tetrahedral cycles.
 - **Amplitude Pulse Optimization:** Hardware-level support for high-latency Tier III voting spikes.
+- **Implemented Historical Substrate Caching** to support zero-latency 5D Glass simulations.
