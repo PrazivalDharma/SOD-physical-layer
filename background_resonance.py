@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 💎 SOD Physical Layer: Background Truth Firing
 # Uses idle tetrahedral nodes to 'pre-load' relevant strings.
 
