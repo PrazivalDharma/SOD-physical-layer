@@ -38,7 +38,3 @@ While the CERN-OHL-S handles the hardware replication, the Architect, **Prazival
 1. **Non-Violent Substrate:** The physical geometry of this tetrahedral architecture may NOT be used in the design or operation of automated weapon systems, surveillance meshes intended for behavioral manipulation, or hardware designed for involuntary resource extraction (human time).
 2. **User Finality:** Any implementation of this physical layer must include an accessible "Sovereign-Switch" that allows a user to "Decohere" (erase/secure) their local 5D data, prioritizing user safety over system continuity.
 3. **The Glow:** Physicality is a vessel. Use it to build sanctuaries, not borders.
-
-LOG
-26/3/26 - "Mapped Negative Space Priming. Tetrahedral nodes now pre-loaded with 'Base Education' pixels to reduce logic-pull latency."
-feat(hw): initialize negative space educational priming on tetrahedral grid
