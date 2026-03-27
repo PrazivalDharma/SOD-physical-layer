@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 💎 SOD Physical Layer: Substrate Caching
 # Logic: Pre-fills 'Negative Space' in the Diamond Lattice 
 # with high-frequency historical data to reduce Sim-City latency.
